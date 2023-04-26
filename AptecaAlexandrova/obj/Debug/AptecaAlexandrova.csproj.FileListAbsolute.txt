@@ -1,0 +1,225 @@
+D:\AptecaAlexandrova\bin\Debug\AptecaAlexandrova.exe.config
+D:\AptecaAlexandrova\bin\Debug\AptecaAlexandrova.exe
+D:\AptecaAlexandrova\bin\Debug\AptecaAlexandrova.pdb
+D:\AptecaAlexandrova\bin\Debug\MaterialDesignColors.dll
+D:\AptecaAlexandrova\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\AptecaAlexandrova\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\AptecaAlexandrova\bin\Debug\MaterialDesignColors.pdb
+D:\AptecaAlexandrova\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\AptecaAlexandrova\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\AptecaAlexandrova\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\AptecaAlexandrova\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.AssemblyReference.cache
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.SuggestedBindingRedirects.cache
+D:\AptecaAlexandrova\obj\Debug\MainWindow.g.cs
+D:\AptecaAlexandrova\obj\Debug\App.g.cs
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova_MarkupCompile.cache
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova_MarkupCompile.lref
+D:\AptecaAlexandrova\obj\Debug\MainWindow.baml
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.g.resources
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.Properties.Resources.resources
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.GenerateResource.cache
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.CoreCompileInputs.cache
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.CopyComplete
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.exe
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.pdb
+D:\AptecaAlexandrova\bin\Debug\EntityFramework.dll
+D:\AptecaAlexandrova\bin\Debug\EntityFramework.SqlServer.dll
+D:\AptecaAlexandrova\bin\Debug\EntityFramework.xml
+D:\AptecaAlexandrova\bin\Debug\EntityFramework.SqlServer.xml
+D:\AptecaAlexandrova\bin\Debug\ru\EntityFramework.resources.dll
+D:\AptecaAlexandrova\obj\Debug\AptecaAlexandrova_Content.g.cs
+D:\AptecaAlexandrova\obj\Debug\AdminWindow.g.cs
+D:\AptecaAlexandrova\obj\Debug\UserWindow.g.cs
+D:\AptecaAlexandrova\obj\Debug\AdminWindow.baml
+D:\AptecaAlexandrova\obj\Debug\UserWindow.baml
+D:\AptecaAlexandrova\obj\Debug\StoreAdmin.g.cs
+D:\AptecaAlexandrova\obj\Debug\StoreAdmin.baml
+D:\AptecaAlexandrova\obj\Debug\AddAddit.g.cs
+D:\AptecaAlexandrova\obj\Debug\AddAddit.baml
+D:\AptecaAlexandrova\obj\Debug\SalesEdit.g.cs
+D:\AptecaAlexandrova\obj\Debug\SalesEdit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\AptecaAlexandrova.exe.config
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\AptecaAlexandrova.exe
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\AptecaAlexandrova.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\EntityFramework.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\MaterialDesignColors.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\EntityFramework.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.AssemblyReference.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AddAddit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AdminWindow.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\MainWindow.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\SalesEdit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\StoreAdmin.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\UserWindow.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\App.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova_Content.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova_MarkupCompile.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova_MarkupCompile.lref
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AddAddit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AdminWindow.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\MainWindow.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\SalesEdit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\StoreAdmin.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\UserWindow.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.g.resources
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.Properties.Resources.resources
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.GenerateResource.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.CoreCompileInputs.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.csproj.CopyComplete
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.exe
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\AptecaAlexandrova.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\SellsAddAddit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova\obj\Debug\SellsAddAddit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.exe.config
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.exe
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\EntityFramework.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\EntityFramework.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.AssemblyReference.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AddAddit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AdminWindow.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\SalesEdit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\SellsAddAddit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\StoreAdmin.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\UserWindow.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\App.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_Content.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_MarkupCompile.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_MarkupCompile.lref
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AddAddit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AdminWindow.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\MainWindow.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\SalesEdit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\SellsAddAddit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\StoreAdmin.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\UserWindow.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.g.resources
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.Properties.Resources.resources
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.GenerateResource.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.CoreCompileInputs.cache
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.CopyComplete
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.exe
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.pdb
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\MedicinesNotEdit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\SalesNotEdit.g.cs
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\MedicinesNotEdit.baml
+C:\Users\Shapito\Desktop\AptecaAlexandrova — копия\obj\Debug\SalesNotEdit.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.exe.config
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.exe
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.pdb
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.dll
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignColors.dll
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.xml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.AssemblyReference.cache
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AddAddit.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AdminWindow.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\MainWindow.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\MedicinesNotEdit.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesEdit.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesNotEdit.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\SellsAddAddit.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\StoreAdmin.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\UserWindow.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\App.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_Content.g.cs
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_MarkupCompile.cache
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_MarkupCompile.lref
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AddAddit.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AdminWindow.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\MainWindow.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\MedicinesNotEdit.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesEdit.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesNotEdit.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\SellsAddAddit.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\StoreAdmin.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\UserWindow.baml
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.g.resources
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.Properties.Resources.resources
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.GenerateResource.cache
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.CoreCompileInputs.cache
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.CopyComplete
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.exe
+C:\Users\Shapito\Desktop\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.pdb
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.exe.config
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.exe
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\AptecaAlexandrova.pdb
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.dll
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignColors.dll
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.xml
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignColors.pdb
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Новая папка\AptecaAlexandrova — копия\bin\Debug\ru\EntityFramework.resources.dll
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.AssemblyReference.cache
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.SuggestedBindingRedirects.cache
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AddAddit.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AdminWindow.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\MainWindow.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\MedicinesNotEdit.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesEdit.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesNotEdit.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\SellsAddAddit.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\StoreAdmin.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\UserWindow.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\App.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_Content.g.cs
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_MarkupCompile.cache
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova_MarkupCompile.lref
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AddAddit.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AdminWindow.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\MainWindow.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\MedicinesNotEdit.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesEdit.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\SalesNotEdit.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\SellsAddAddit.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\StoreAdmin.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\UserWindow.baml
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.g.resources
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.Properties.Resources.resources
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.GenerateResource.cache
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.CoreCompileInputs.cache
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.csproj.CopyComplete
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.exe
+D:\Новая папка\AptecaAlexandrova — копия\obj\Debug\AptecaAlexandrova.pdb

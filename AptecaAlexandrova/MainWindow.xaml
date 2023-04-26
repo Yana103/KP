@@ -1,0 +1,49 @@
+﻿<Window x:Class="AptecaAlexandrova.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AptecaAlexandrova"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Авторизация информационной системы 'Аптека'" Height="450" Width="800" Icon="/Resources/icon.ico">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush TileMode="None" Stretch="Fill" ImageSource="/fon.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1" Margin="50">
+            <Grid.Background>
+                <SolidColorBrush Color="#FFBBE0F9" Opacity="0.5"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Sign in" Grid.Row="0" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="60" Foreground="#FF4D8CFF" FontFamily="Arial Black"></TextBlock>
+            <TextBlock Text="Login" Margin="40 0 0 0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="18" Foreground="#FF0C8AF9" FontFamily="Arial"></TextBlock>
+            <TextBox KeyUp="Log_KeyUp" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="205" FontSize="18" Height="25" BorderBrush="#FF486CDA" x:Name="Log" Foreground="#FF486CDA"></TextBox>
+            <TextBlock Text="Password" Margin="40 0 0 0" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="18" Foreground="#FF0C8AF9" FontFamily="Arial"></TextBlock>
+            <PasswordBox KeyUp="Pass_KeyUp" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" Width="205" FontSize="18" Height="25" Foreground="#FF486CDA" BorderBrush="#FF486CDA" x:Name="Pass"></PasswordBox>
+            <TextBlock Text="Code" Margin="40 0 0 0" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="18" Foreground="#FF0C8AF9" FontFamily="Arial"></TextBlock>
+            <DockPanel Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBox Width="180" FontSize="18" Height="25" Foreground="#FF486CDA" BorderBrush="#FF486CDA" x:Name="Code"></TextBox>
+                <Button x:Name="Refresh" Click="Refresh_Click" Height="25" Width="25" BorderBrush="#FF486CDA">
+                    <Image Source="/Resources/strelka.png" OpacityMask="#FF83BDF0"/>
+                </Button>
+            </DockPanel>
+            <Button x:Name="Login" Click="Login_Click" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="7" Content="Continue" Height="32" Width="90" FontSize="18" Margin="0,31,0,0" BorderBrush="#FF88A1EE" Background="#FF83BDF0" Foreground="White" FontFamily="Arial"></Button>
+        </Grid>
+        <Image Source="/Resources/login1.png" Grid.Column="0" Height="300" Margin="100 0 0 0"/>
+        <Button x:Name="ClearBut" Content="Clear" Background="#FF83BDF0" BorderBrush="#FF88A1EE" Foreground="White" Margin="263,286,67,0" VerticalAlignment="Top" Height="34" Click="ClearBut_Click" Grid.Column="1" FontSize="18" FontFamily="Arial"/>
+    </Grid>
+</Window>
